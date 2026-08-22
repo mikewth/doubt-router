@@ -1,0 +1,4 @@
+notion-client==2.2.1
+python-telegram-bot[job-queue]==21.4
+google-genai==0.7.0
+python-dotenv==1.0.1

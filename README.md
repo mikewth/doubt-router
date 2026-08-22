@@ -82,3 +82,9 @@ form.
 3. Bot immediately acknowledges the student ("routed to @so-and-so")
 4. The assigned answerer reviews it in Notion, types their reply into the Answer field, then changes Status to Approved
 5. Within `POLL_INTERVAL` seconds, the bot delivers the reply on Telegram, sets Status = Sent, and logs it to Run Log
+
+## My Notion Link
+https://app.notion.com/p/Doubt-Router-3b9651c67d4880f0a7e4e5a1b2116aec?source=copy_link
+
+## My Telegram Bot
+@doubtdesk_bot

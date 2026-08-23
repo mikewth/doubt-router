@@ -92,4 +92,17 @@ https://app.notion.com/p/Doubt-Router-3b9651c67d4880f0a7e4e5a1b2116aec?source=co
 ## Demo
 
 ### Full loop: question → routing → approval → reply
-<img width="730" height="264" alt="image" src="https://github.com/user-attachments/assets/4209308d-aa15-4a1c-b1d4-9df6d19f7a39" />
+<img width="748" height="388" alt="image" src="https://github.com/user-attachments/assets/28c9aa48-16e0-4e0f-ae97-128c3c3985a1" />
+
+### Requests tracked and logged in Notion
+<img width="1269" height="87" alt="image" src="https://github.com/user-attachments/assets/ee1e6475-077a-41fc-b730-c71c38554d3e" />
+
+### Answerer Pool — experts mapped by subject and year
+<img width="466" height="196" alt="image" src="https://github.com/user-attachments/assets/cb4cd96e-eaf3-47de-9eb9-bf556e5b2616" />
+
+### Run Log — every automated action, timestamped
+<img width="468" height="622" alt="image" src="https://github.com/user-attachments/assets/e4f7ec76-f581-4ace-870b-6af92842a5d5" />
+
+### Spam and blacklist handled automatically
+<img width="471" height="142" alt="image" src="https://github.com/user-attachments/assets/dd0a5dd6-f6ec-4b05-9a67-ed9a107de827" />
+<img width="719" height="197" alt="image" src="https://github.com/user-attachments/assets/1e05bab8-c62f-4ddc-873a-7d8c5db1f1a8" />

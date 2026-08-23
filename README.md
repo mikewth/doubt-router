@@ -86,5 +86,10 @@ form.
 ## My Notion Link
 https://app.notion.com/p/Doubt-Router-3b9651c67d4880f0a7e4e5a1b2116aec?source=copy_link
 
-## My Telegram Bot
+## My Telegram Bot (will not work without repo)
 @doubtdesk_bot
+
+## Demo
+
+### Full loop: question → routing → approval → reply
+<img width="730" height="264" alt="image" src="https://github.com/user-attachments/assets/4209308d-aa15-4a1c-b1d4-9df6d19f7a39" />
